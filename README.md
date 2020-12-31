@@ -1,2 +1,2 @@
 # git-test
-Test git project
+Test Git Project
